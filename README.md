@@ -5,7 +5,7 @@
 
 既定ブランチの `akiyan` は、固定した上流コミットに独自差分を 1 コミット載せる。
 初回は SGDK 2.11 を基準に、**他のツールが書いた XGM ファイルのループ点が失われる**不具合を直した。
-[変更情報](sgdk_akiyan_fork.md) · [上流 2.11](https://github.com/Stephane-D/SGDK/releases/tag/v2.11)
+[変更情報](sgdk_akiyan_fork.md) · [Issue #1](https://github.com/akiyan/SGDK/issues/1) · [上流 2.11](https://github.com/Stephane-D/SGDK/releases/tag/v2.11)
 
 AI の自動操作や高速な反復の効率がよくなる変更、および他のツールとつなぐときに必要な修正を、特定のタイトルに
 依存しない汎用の形で加える。
